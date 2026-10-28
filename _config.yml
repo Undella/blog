@@ -1,0 +1,14 @@
+title: Undella
+description: >-
+  Notes from building a Minecraft network from scratch: plugins, servers,
+  homelab, and everything that broke along the way.
+theme: minima
+author: Jerrick
+show_excerpts: true
+
+minima:
+  social_links:
+    github: Undella
+
+header_pages:
+  - about.md
